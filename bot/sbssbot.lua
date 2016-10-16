@@ -259,7 +259,7 @@ function create_config( )
     "auto_leave",
     "lockfdw"
     },
-    sudo_users = {108800687},--Sudo users
+    sudo_users = {212281884},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
